@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🏆 Achievements
 
 - Completed 100 Days of Code Challenge
-- Contributed to 10+ Open Source Projects
-- Speaker at Various Tech Conferences
+
 
 ## 💬 Let's Chat
 
