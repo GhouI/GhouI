@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning Techniques
-- Cloud Computing with AWS and Azure
 - DevOps Practices and Tools
 
 ## 📈 GitHub Stats
