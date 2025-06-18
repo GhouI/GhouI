@@ -1,4 +1,4 @@
-# Hi there, I'm GhouI! 👋
+# Hi there, I'm Abdul! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and open-source contributions. Here you'll find a collection of projects I've worked on, ranging from web development to machine learning.
 
