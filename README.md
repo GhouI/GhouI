@@ -4,15 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
+- **Languages:** Python, JavaScript, TypeScript, Java, 
 - **Frameworks/Libraries:** React, Node.js, Express, Django, Flask, TensorFlow, PyTorch
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning Techniques
-- DevOps Practices and Tools
+- **Databases:** MySQL, PostgreSQL, MongoDB, Convex
+- **Tools:** Git, Docker,VS Code
 
 ## 📈 GitHub Stats
 
