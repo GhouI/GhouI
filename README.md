@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, 
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask, TensorFlow, PyTorch
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB, Convex
-- **Tools:** Git, Docker,VS Code
+- **Tools:** Git, GitHub Actions, Docker, Vercel, Trello, Slack, VS Code
 
 ## 📈 GitHub Stats
 
@@ -15,15 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aa/)
-- [Personal Website](https://www.alian.cc)
-
-## 🏆 Achievements
-
-- Completed 100 Days of Code Challenge
-
+- [LinkedIn](https://www.linkedin.com/in/aalian/)
 
 ## 💬 Let's Chat
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello! I'm always open to collaborating on interesting projects and learning new things.
-
