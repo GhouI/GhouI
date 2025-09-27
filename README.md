@@ -17,6 +17,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - [LinkedIn](https://www.linkedin.com/in/aalian/)
 
-## 💬 Let's Chat
 
-Feel free to reach out if you have any questions, suggestions, or just want to say hello! I'm always open to collaborating on interesting projects and learning new things.
