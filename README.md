@@ -1,12 +1,5 @@
-## About me
-<p align="left">Hi, my name is Abdul.<br>I am a software engineer from the UK who is passionate about software development.</p>
-
+<br>I am a software engineer from the UK who is passionate about software development.
 ###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghoui.Ghoui&left_color=dimgray&right_color=lemonchiffon"  />
-</div>
-
 ###
 
 <h2 align="left">Web Development</h2>
