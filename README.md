@@ -1,4 +1,4 @@
-<br>I am a software engineer from the UK who is passionate about software development.
+<br>Software engineer from the UK who is passionate about software development.
 ###
 ###
 
