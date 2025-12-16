@@ -1,4 +1,4 @@
-<br>Software engineer from the UK who is passionate about software development.
+<br>UK software engineer passionate about turning ideas into reliable, user-centred software.
 ###
 ###
 
