@@ -1,73 +1,39 @@
-<br>UK software engineer passionate about turning ideas into reliable, user-centred software.
-###
-###
+<h1 align="left">Hi, I'm Abdul 👋</h1>
 
-<h2 align="left">Web Development</h2>
+London-based software engineer who likes turning ideas into reliable, user-centred software. I mostly write **TypeScript** and **Python**, and lately I've been building tools that give AI agents real-world reach.
 
-###
+<a href="https://www.linkedin.com/in/aalian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-</div>
+---
 
-###
+### 🚀 Featured projects
 
-<h2 align="left">Languages</h2>
+| Project | What it does |
+| --- | --- |
+| **[winreach-mcp](https://github.com/GhouI/winreach-mcp)** | An MCP server that gives an AI agent its own Windows machine: remote PowerShell, file transfer, screenshots and full desktop control over HTTP, with per-user keys, roles, command policies, mTLS and an audit log. |
+| **[PhonePair](https://github.com/GhouI/PhonePair)** | Generates remote pairing files directly on an iPhone (iOS 27+) and exports them for StikDebug. |
+| **[x-twitter-space-downloader](https://github.com/GhouI/x-twitter-space-downloader)** | Downloads X/Twitter Spaces, including encrypted and Super Follow content, handling decryption keys and chunk assembly with FFmpeg. |
+| **[typedream](https://github.com/GhouI/typedream)** | A Claude-driven CLI harness for anime production with Seedance: character refs, storyboards, takes and FFmpeg assembly. |
+| **[Ted-IPTV-Player](https://github.com/GhouI/Ted-IPTV-Player)** | An open-source IPTV player for Vidaa smart TVs. |
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-</div>
+### 🛠️ Tech stack
 
-###
+**Languages**
 
-<h2 align="left">AI</h2>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,rust" alt="Languages" />
 
-###
+**Web**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,vite" alt="Web frameworks" />
 
-###
+**AI / ML**
 
-<h2 align="left">Social Media</h2>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and ML" />
 
-###
+---
 
-<div align="left">
-  <a href="linkedin.com/in/aalian" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### 📊 Stats
 
-###
-
-<div align="center">
-  <img src="https://github-readme-gold.vercel.app/api/top-langs?username=Ghoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<img src="https://github-readme-gold.vercel.app/api/top-langs?username=GhouI&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="Top languages" />
